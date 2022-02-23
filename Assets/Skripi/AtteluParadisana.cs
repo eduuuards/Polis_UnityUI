@@ -8,7 +8,8 @@ public class AtteluParadisana : MonoBehaviour {
 	public GameObject bernu;
 	public GameObject attelaTuretajs;
 	public Sprite[] atteluMasivs;
-	public GameObject slaideris;
+	public GameObject SliderHorizontali;
+	public GameObject SliderVertikali;
 
 
 
@@ -27,7 +28,7 @@ public class AtteluParadisana : MonoBehaviour {
 	}
 
 	public void mainitLielumu(){
-		float pasreizejaVertiba = slaideris.GetComponent<Slider> ().value;
+		float pasreizejaVertiba = SliderHorizontali.GetComponent<Slider> ().value;
 		attelaTuretajs.transform.localScale = new Vector2 (1F * pasreizejaVertiba, 1F * pasreizejaVertiba);
 	}
 }
