@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skripi\TekstaParadisana.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skripi\AtteluParadisana.cs">
     <Files>
-      <File FileName="Assets\Skripi\TekstaParadisana.cs" Line="8" Column="23" />
+      <File FileName="Assets\Skripi\TekstaParadisana.cs" Line="19" Column="62" />
+      <File FileName="Assets\Skripi\AtteluParadisana.cs" Line="21" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
